@@ -29,7 +29,3 @@ Machine Learning project to predict life expectancy using healthcare and economi
 ## Results
 
 Random Forest gave the best performance.
-
-## Author
-
-Abhishek Ghosh
